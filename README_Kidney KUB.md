@@ -1,6 +1,3 @@
-**TITLE**
-A Federated Learning Framework for Kidney Stone Diagnosis with Explainable AI for Clinical Interpretability
-
 # Title 
 A Federated Learning Framework for Kidney Stone Diagnosis with Explainable AI for Clinical Interpretability
 
