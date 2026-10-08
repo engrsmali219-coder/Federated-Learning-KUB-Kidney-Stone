@@ -258,11 +258,12 @@ The framework was developed and tested using:
 - **Batch Size:** 32
 ---
 ## 11. Results and Discussion
-The ResNet-18 model within the proposed federated framework achieved **98.57% accuracy**, **99.21% specificity**, **97.93% recall**, and **99.20% precision**.
+
+**The ResNet-18 model within the proposed federated framework achieved **98.57% accuracy**, **99.21% specificity**, **97.93% recall**, and **99.20% precision**.
 Federated Learning enables collaborative model training across three simulated hospitals without sharing raw patient images. Reliability-weighted aggregation prioritizes clients according to their validation performance and stability.
 The use of AdamW, SGD with Momentum, and RMSprop across different clients provides a heterogeneous client-training configuration. The framework also integrates six XAI techniques to provide complementary visual explanations of model predictions.
 The proposed framework is intended as a **preliminary screening and referral support tool**, rather than a replacement for clinical diagnosis.
----
+**---
 
 ## 12. Limitations
 The current implementation has the following limitations:
