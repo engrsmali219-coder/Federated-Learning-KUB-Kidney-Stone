@@ -23,6 +23,9 @@ An 80:20 split was applied:
 - Testing:** 2,800 images
 The data were distributed across three simulated hospital clients while preserving the class distribution.
 
+Permission to use the kidney X-ray dataset for academic research was obtained from its original author, Dr. Fahad Ahmed, via email on 8 October 2026. The author granted permission for academic use, provided that the original dataset source and associated research publication are appropriately acknowledged and cited in the manuscript.
+
+
 ### Dataset Source
 The KUB X-ray dataset used in this project was obtained from the following GitHub repository: https://github.com/engrsmali219-coder/KUB-Kidney-Stone-or-Normal.
 The dataset contains KUB X-ray images categorized into Kidney Stone and Normal classes and was used for training and evaluation of the proposed FKKSD framework. This study describes 500 AP KUB X-ray images, including 250 kidney-stone and 250 normal cases.
